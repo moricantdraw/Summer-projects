@@ -1,0 +1,173 @@
+Assignment 1:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Jorge')
+  7th grade: ('Colleen', 'Colleen', 'Jorge', 'Victor')
+  6th: ('Jorge', 'Victor', 'Victor')
+  Class preps needed: Colleen: 2 preps, Jorge: 3 preps, Victor: 2 preps
+
+Assignment 2:
+  8th grade: ('Colleen', 'Colleen', 'Colleen', 'Jorge')
+  7th grade: ('Jorge', 'Victor', 'Victor', 'Victor')
+  6th: ('Colleen', 'Jorge', 'Jorge')
+  Class preps needed: Colleen: 2 preps, Jorge: 3 preps, Victor: 1 preps
+
+Assignment 3:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Victor')
+  7th grade: ('Colleen', 'Jorge', 'Jorge', 'Victor')
+  6th: ('Colleen', 'Jorge', 'Victor')
+  Class preps needed: Colleen: 3 preps, Victor: 3 preps, Jorge: 3 preps
+
+Assignment 4:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Jorge')
+  7th grade: ('Colleen', 'Victor', 'Victor', 'Victor')
+  6th: ('Colleen', 'Jorge', 'Jorge')
+  Class preps needed: Colleen: 3 preps, Jorge: 2 preps, Victor: 1 preps
+
+Assignment 5:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Jorge')
+  7th grade: ('Colleen', 'Jorge', 'Jorge', 'Victor')
+  6th: ('Colleen', 'Victor', 'Victor')
+  Class preps needed: Colleen: 3 preps, Jorge: 2 preps, Victor: 2 preps
+
+Assignment 6:
+  8th grade: ('Colleen', 'Colleen', 'Colleen', 'Victor')
+  7th grade: ('Jorge', 'Jorge', 'Jorge', 'Victor')
+  6th: ('Colleen', 'Jorge', 'Victor')
+  Class preps needed: Colleen: 2 preps, Victor: 3 preps, Jorge: 2 preps
+
+Assignment 7:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Victor')
+  7th grade: ('Colleen', 'Colleen', 'Jorge', 'Victor')
+  6th: ('Jorge', 'Jorge', 'Victor')
+  Class preps needed: Colleen: 2 preps, Victor: 3 preps, Jorge: 3 preps
+
+Assignment 8:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Jorge')
+  7th grade: ('Colleen', 'Jorge', 'Victor', 'Victor')
+  6th: ('Colleen', 'Jorge', 'Victor')
+  Class preps needed: Colleen: 3 preps, Jorge: 3 preps, Victor: 2 preps
+
+Assignment 9:
+  8th grade: ('Colleen', 'Colleen', 'Victor', 'Victor')
+  7th grade: ('Colleen', 'Jorge', 'Jorge', 'Jorge')
+  6th: ('Colleen', 'Jorge', 'Victor')
+  Class preps needed: Colleen: 3 preps, Victor: 2 preps, Jorge: 2 preps
+
+Assignment 10:
+  8th grade: ('Colleen', 'Colleen', 'Victor', 'Victor')
+  7th grade: ('Colleen', 'Jorge', 'Jorge', 'Victor')
+  6th: ('Colleen', 'Jorge', 'Jorge')
+  Class preps needed: Colleen: 3 preps, Victor: 2 preps, Jorge: 2 preps
+
+Assignment 11:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Jorge')
+  7th grade: ('Jorge', 'Victor', 'Victor', 'Victor')
+  6th: ('Colleen', 'Colleen', 'Jorge')
+  Class preps needed: Colleen: 2 preps, Jorge: 3 preps, Victor: 1 preps
+
+Assignment 12:
+  8th grade: ('Colleen', 'Jorge', 'Jorge', 'Victor')
+  7th grade: ('Colleen', 'Jorge', 'Victor', 'Victor')
+  6th: ('Colleen', 'Colleen', 'Jorge')
+  Class preps needed: Colleen: 3 preps, Jorge: 3 preps, Victor: 2 preps
+
+Assignment 13:
+  8th grade: ('Colleen', 'Jorge', 'Jorge', 'Victor')
+  7th grade: ('Colleen', 'Jorge', 'Jorge', 'Victor')
+  6th: ('Colleen', 'Colleen', 'Victor')
+  Class preps needed: Colleen: 3 preps, Victor: 3 preps, Jorge: 2 preps
+
+Assignment 14:
+  8th grade: ('Colleen', 'Colleen', 'Colleen', 'Victor')
+  7th grade: ('Colleen', 'Jorge', 'Jorge', 'Victor')
+  6th: ('Jorge', 'Jorge', 'Victor')
+  Class preps needed: Colleen: 2 preps, Victor: 3 preps, Jorge: 2 preps
+
+Assignment 15:
+  8th grade: ('Colleen', 'Colleen', 'Colleen', 'Jorge')
+  7th grade: ('Colleen', 'Jorge', 'Jorge', 'Victor')
+  6th: ('Jorge', 'Victor', 'Victor')
+  Class preps needed: Colleen: 2 preps, Jorge: 3 preps, Victor: 2 preps
+
+Assignment 16:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Victor')
+  7th grade: ('Jorge', 'Jorge', 'Jorge', 'Victor')
+  6th: ('Colleen', 'Colleen', 'Victor')
+  Class preps needed: Colleen: 2 preps, Victor: 3 preps, Jorge: 2 preps
+
+Assignment 17:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Victor')
+  7th grade: ('Jorge', 'Jorge', 'Victor', 'Victor')
+  6th: ('Colleen', 'Colleen', 'Jorge')
+  Class preps needed: Colleen: 2 preps, Jorge: 3 preps, Victor: 2 preps
+
+Assignment 18:
+  8th grade: ('Colleen', 'Colleen', 'Victor', 'Victor')
+  7th grade: ('Jorge', 'Jorge', 'Jorge', 'Victor')
+  6th: ('Colleen', 'Colleen', 'Jorge')
+  Class preps needed: Colleen: 2 preps, Jorge: 2 preps, Victor: 2 preps
+
+Assignment 19:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Victor')
+  7th grade: ('Colleen', 'Jorge', 'Victor', 'Victor')
+  6th: ('Colleen', 'Jorge', 'Jorge')
+  Class preps needed: Colleen: 3 preps, Victor: 2 preps, Jorge: 3 preps
+
+Assignment 20:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Jorge')
+  7th grade: ('Colleen', 'Colleen', 'Victor', 'Victor')
+  6th: ('Jorge', 'Jorge', 'Victor')
+  Class preps needed: Colleen: 2 preps, Jorge: 2 preps, Victor: 2 preps
+
+Assignment 21:
+  8th grade: ('Colleen', 'Jorge', 'Jorge', 'Jorge')
+  7th grade: ('Colleen', 'Victor', 'Victor', 'Victor')
+  6th: ('Colleen', 'Colleen', 'Jorge')
+  Class preps needed: Colleen: 3 preps, Jorge: 2 preps, Victor: 1 preps
+
+Assignment 22:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Victor')
+  7th grade: ('Colleen', 'Jorge', 'Jorge', 'Jorge')
+  6th: ('Colleen', 'Victor', 'Victor')
+  Class preps needed: Colleen: 3 preps, Victor: 2 preps, Jorge: 2 preps
+
+Assignment 23:
+  8th grade: ('Colleen', 'Colleen', 'Jorge', 'Jorge')
+  7th grade: ('Jorge', 'Jorge', 'Victor', 'Victor')
+  6th: ('Colleen', 'Colleen', 'Victor')
+  Class preps needed: Colleen: 2 preps, Jorge: 2 preps, Victor: 2 preps
+
+Assignment 24:
+  8th grade: ('Colleen', 'Colleen', 'Colleen', 'Jorge')
+  7th grade: ('Jorge', 'Jorge', 'Jorge', 'Victor')
+  6th: ('Colleen', 'Victor', 'Victor')
+  Class preps needed: Colleen: 2 preps, Jorge: 2 preps, Victor: 2 preps
+
+Assignment 25:
+  8th grade: ('Colleen', 'Jorge', 'Jorge', 'Jorge')
+  7th grade: ('Colleen', 'Jorge', 'Victor', 'Victor')
+  6th: ('Colleen', 'Colleen', 'Victor')
+  Class preps needed: Colleen: 3 preps, Victor: 2 preps, Jorge: 2 preps
+
+Assignment 26:
+  8th grade: ('Colleen', 'Colleen', 'Colleen', 'Jorge')
+  7th grade: ('Jorge', 'Jorge', 'Victor', 'Victor')
+  6th: ('Colleen', 'Jorge', 'Victor')
+  Class preps needed: Colleen: 2 preps, Jorge: 3 preps, Victor: 2 preps
+
+Assignment 27:
+  8th grade: ('Colleen', 'Colleen', 'Colleen', 'Jorge')
+  7th grade: ('Colleen', 'Jorge', 'Victor', 'Victor')
+  6th: ('Jorge', 'Jorge', 'Victor')
+  Class preps needed: Colleen: 2 preps, Jorge: 3 preps, Victor: 2 preps
+
+Assignment 28:
+  8th grade: ('Colleen', 'Colleen', 'Colleen', 'Victor')
+  7th grade: ('Colleen', 'Jorge', 'Jorge', 'Jorge')
+  6th: ('Jorge', 'Victor', 'Victor')
+  Class preps needed: Colleen: 2 preps, Victor: 2 preps, Jorge: 2 preps
+
+Assignment 29:
+  8th grade: ('Colleen', 'Colleen', 'Colleen', 'Victor')
+  7th grade: ('Jorge', 'Jorge', 'Victor', 'Victor')
+  6th: ('Colleen', 'Jorge', 'Jorge')
+  Class preps needed: Colleen: 2 preps, Victor: 2 preps, Jorge: 2 preps
