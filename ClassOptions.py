@@ -2,9 +2,9 @@
 #The objective of this project is to compile a list of schedule options for a department of middle school language teachers 
 #The teachers must teach 4 sections of 8th grade, 4 sections of 7th grade and 3 sections of 6th grade
 #There are 3 teachers J, C and V
-# J and C must teach 4 classes while V will only teach 3  
+#J and C must teach 4 classes while V will only teach 3 
 
-#This is essenrialy a combinatorics problem 
+#This is essenrialy a combinatorics problem
 
 import itertools
 from collections import Counter
@@ -18,7 +18,7 @@ V = "Victor"
 teachers_list = [J] * 4 + [C] * 4 + [V] * 3
 
 
-# Create 3 places to store 4 variables each
+# Create 3 places to store 4 variables each except for 6th which gets 3
 classes = [
     [None] * 4,  # 8th grade
     [None] * 4,  # 7th grade
@@ -95,7 +95,7 @@ for i, assignment in enumerate(unique_assignments):
     output_lines.append(f"  Class preps needed: {variable_count_str}\n")
 
 # Write the output to a text file
-with open('ClassAssignments3.txt', 'w') as f:
+with open('ClassAssignments.txt', 'w') as f:
     f.write("\n".join(output_lines))
 
-print("Assignments have been exported to 'ClassAssignments3.txt'.")
+print("Assignments have been exported to 'ClassAssignments.txt'.")
